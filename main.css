@@ -8,6 +8,11 @@
 html {
     scroll-behavior: smooth;
 }
+
+html, body {
+    overflow-x: hidden;
+}
+
 .logo {
     display: flex;
     align-items: center;
